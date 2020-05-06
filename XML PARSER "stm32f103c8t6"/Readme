@@ -1,0 +1,4 @@
+Run any script as both have the same output
+- The first one uses regex
+- The second one uses an XML parser library
+test.svd is a sample you could use to test the script
